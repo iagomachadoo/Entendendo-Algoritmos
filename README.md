@@ -1,2 +1,3 @@
-# Entendendo-Algoritmos
-Repositório com as anotações de leitura e exercícios feitos
+# Entendendo Algoritmos
+
+## Capítulo 1
